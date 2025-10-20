@@ -12,8 +12,8 @@ h1 {
     display:flex; flex-wrap:wrap; 
 } 
 .project {
-width: 30%;
-margin: 10px;
+width: 60%;
+margin: 15px;
 padding: 20px 10px;
 background: #72829C;
 border-radius: 25%;
