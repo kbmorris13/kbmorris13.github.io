@@ -8,15 +8,13 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    .project img{
-        width: 300px;
-        height: 300px;
-        margin: 10px;
-        border: 2px solid rgb(126, 14, 201);
-        display: block;
-        margin: auto;
-    }
+.project img p-statement.png {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+    margin: auto;
 }
 
 .project img {
