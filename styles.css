@@ -8,12 +8,19 @@ h1 {
     text-align: center;
 }
 
-.project img{
-    width: 300px;
-    height: 300px;
-    margin: 10px;
+h2 {
+    .project img{
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        border: 2px solid rgb(126, 14, 201);
+        display: block;
+        margin: auto;
+    }
+}
+
+.project img {
     border: 2px solid rgb(126, 14, 201);
-    display: block;
     margin: auto;
 }
 
@@ -34,6 +41,7 @@ h1 {
     color: indigo;
 }
 
-a {
+.project a {
     color: indigo;
+    text-align: center;
 }
