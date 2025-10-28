@@ -8,38 +8,20 @@ h1 {
     text-align: center;
 }
 
-.project img p-statement.png {
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    border: 2px solid rgb(126, 14, 201);
-    display: block;
-    margin: auto;
+.project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(126, 14, 201);
+display: block;
+margin: auto;
 }
 
-.project img {
-    border: 2px solid rgb(126, 14, 201);
-    margin: auto;
-}
-
-.projects { 
-    display:flex; flex-wrap:wrap; 
-}
-
-.project {
-    width: 500px;
-    margin: 10px;
-    padding: 30px 10px;
-    background: #72829C;
-    border-radius: 25%;
+a {
+color: indigo;
 }
 
 .project p {
-    text-align: center;
-    color: indigo;
-}
-
-.project a {
-    color: indigo;
-    text-align: center;
+text-align: center;
+margin: 15px;
 }
