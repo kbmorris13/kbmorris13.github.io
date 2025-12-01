@@ -11,41 +11,39 @@ body {
 }
 
 .header h1 {
-    font-size: 18px;
     margin: 0;
     color: #2c3e50;
 }
 
 .location {
     margin-top: 5px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .email {
     margin-top: 5px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .website {
     margin-top: 5px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .section {
-    font-size: 12px;
     display: flex;
-    margin-bottom: 20px;
 }
 
 .section-title {
     width: 25%;
     font-weight: bold;
     color: #2c3e50;
+    margin-bottom: 5px;
 }
 
 .section-content {
-    margin-top: 5px;
     width: 75%;
+    margin-bottom: 20px;
 }
 
 ul {
