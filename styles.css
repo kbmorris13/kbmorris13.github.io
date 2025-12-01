@@ -9,12 +9,12 @@ h1 {
 }
 
 .project img{
-width: 300px;
-height: 300px;
-margin: 10px;
-border: 2px solid rgb(126, 14, 201);
-display: block;
-margin: auto;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+    margin: auto;
 }
 
 .projects { 
@@ -22,18 +22,19 @@ margin: auto;
 }
 
 .project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: #72829C;
-border-radius: 25%;
+    text-align: center;
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #72829C;
+    border-radius: 25%;
 }
 
 a {
-color: indigo;
+    color: indigo;
 }
 
 .project p {
-text-align: center;
-margin: 15px;
+    text-align: center;
+    margin: 15px;
 }
