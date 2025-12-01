@@ -1,1 +1,51 @@
+body {
+    font-family: "Times New Roman", Times, Serif;
+    margin: 40px;
+    color: #333;
+    background-color: #f9f9f9;
+}
 
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    color: #2c3e50;
+}
+
+.location {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.email {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.website {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.section {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    width: 25%;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.section-content {
+    width: 75%;
+}
+
+ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
