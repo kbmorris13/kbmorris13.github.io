@@ -1,39 +1,36 @@
 body {
-    background: LightSteelBlue;
-    font-family: Arial, Helvetica, sans-serif;
+	background: lightsteelblue;
+	font-family: Arial, Helvetica, sans-serif;
 }
-
 h1 {
-    color: indigo;
-    text-align: center;
+	color: indigo;
+	text-align: center;
 }
-
-.project img{
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    border: 2px solid rgb(126, 14, 201);
-    display: block;
-    margin: auto;
-}
-
 .projects { 
-    display:flex; flex-wrap:wrap; 
+	display:flex; 
+	flex-wrap:wrap;  
+} 
+.projects h2 {
+	width: 100%;
 }
-
 .project {
-    text-align: center;
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
     background: #72829C;
     border-radius: 25%;
 }
-
-a {
-    color: indigo;
+.project h3 {
+    margin-left: 50px;
 }
-
+.project img {
+    width: 400px;
+    height: 300px;
+    margin: 10px auto;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+    text-align: center;
+}
 .project p {
     text-align: center;
     margin: 15px;
